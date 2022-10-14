@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    box-sizing: border-box;
+}
+body{
+
+background-image: url(../css/image/emo4.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.btn1{
+    text-align: center;
+    padding-left: 600px;
+}
+/* #content{
+    padding-left: 600px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    font-size: large;
+   
+} */
